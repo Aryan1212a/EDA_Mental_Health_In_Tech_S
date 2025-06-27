@@ -179,17 +179,5 @@ The analysis includes various types of visualizations:
 ## Contribution
 
 This project was completed as an individual contribution for exploratory data analysis practice and mental health awareness in the tech industry.
-
-## Repository Structure
-
 ```
-â”œâ”€â”€ README.md
-â”œâ”€â”€ mental_health_eda.ipynb
-â”œâ”€â”€ data/
-â”‚   â””â”€â”€ mental_health_survey.csv
-â””â”€â”€ visualizations/
-    â””â”€â”€ [generated charts and plots]
-```
----
-
 *This analysis is intended for educational and awareness purposes. For professional mental health support, please consult qualified healthcare providers.*
